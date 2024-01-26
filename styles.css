@@ -1,0 +1,87 @@
+body{
+    font-family: "Gabarito";
+    margin: 0 10%;
+}
+div {
+    display: block;
+}
+.container {
+    border: 2px solid #1b1b1b;
+    padding: 10px;
+    margin: 10px auto;
+}
+.color-container{
+    width: 100%;
+}
+.color-block{
+    display: inline-block;
+    width: 23%;
+    text-align: left;
+    margin: 20px auto;
+    font-size: 25px;
+    padding-left: 15px;
+    line-height: 10px;
+}
+.ethereal-ivory{
+    background-color: #e4e4de;
+    color: #1b1b1b;
+    height: 250px;
+}
+.sophisticated-sage{
+    background-color: #c4c5ba;
+    color: #1b1b1b;
+    height: 250px;
+}
+.timeless-noir{
+    background-color: #1b1b1b;
+    color: #e4e4de;
+    height: 250px;
+}
+.muted-moss{
+    background-color: #595f39;
+    color:#e4e4de;
+    height: 250px;
+}
+.font-block{
+    width: 45%;
+    display: inline-block;
+}
+.font-header{
+    font-size: 25px;
+    text-decoration: underline;
+}
+.regular{
+    font-style: normal;
+    font-size: 25px;
+}
+.italic{
+    font-style: italic;
+    font-size: 25px;
+}
+.bold{
+    font-weight: 700;
+    font-size: 25px;
+}
+.gabarito{
+    font-family:'Gabarito';
+}
+.afacad{
+    font-family: 'Afacad';
+}
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Gabarito';
+  }
+  
+  .text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Gabarito';
+  }
+  
+  .text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Gabarito';
+  }
